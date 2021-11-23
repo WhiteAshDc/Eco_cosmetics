@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":["document","getElementById","reset"],"mappings":";AAAA,aAEAA,SAASC,eAAe,UAAUC","file":"main.45fccd6a.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\ndocument.getElementById('myForm').reset();\n"]}
